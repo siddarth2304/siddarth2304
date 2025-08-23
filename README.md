@@ -70,8 +70,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=siddarth2304&icon=5&color=12" alt="Profile Views"/>
-</p>
 
 ---
