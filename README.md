@@ -1,15 +1,77 @@
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/earlapally-sahith-siddarth/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddarth2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddarth2304&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddarth2304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Siddarth!;🚀+AI+%7C+Cloud+%7C+Full+Stack+Developer;💡+Building+TrustAI+%26+ClipFlick+(AI+SaaS);🎯+On+a+mission+to+create+impact+%26+wealth"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddarth2304&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌟 About Me  
+- 🎓 3rd Year **B.Tech Student** | Passionate about **AI/Cloud + SaaS Products**  
+- ⚡ Currently working on **TrustAI** *(AI-powered Feedback Analyzer)* & **ClipFlick** *(AI Shorts Generator)*  
+- ☁️ Exploring **AWS Cloud** & **Generative AI** (Google Gen AI Exchange Phase 2 🎉)  
+- 💼 Freelance Web Dev → Building **SaaS for Creators & Businesses**  
+- 💡 Obsessed with solving **real-world problems using AI-driven solutions**  
+  
+
+---
+
+## 💻 Tech Arsenal  
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <br/>
+  
+  <!-- Web Dev & SaaS -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
+
+  <!-- Cloud & AI -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-1A73E8?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Highlights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddarth2304&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarth2304&theme=radical&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarth2304&theme=radical&hide_border=false&layout=compact" height="150"/>
+</p>
+
+---
+
+## 🌐 Socials  
+<p align="center">
+  <a href="https://www.linkedin.com/in/earlapally-sahith-siddarth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Side  
+- 🛠️ Love **Hackathons** → rapid prototyping of SaaS ideas  
+- 🎬 Can turn **long videos → viral short reels** (ClipFlick)  
+- 📈 Passionate about **entrepreneurship + wealth building**  
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=siddarth2304&icon=5&color=12" alt="Profile Views"/>
+</p>
+
+---
